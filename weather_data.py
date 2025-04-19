@@ -12,7 +12,7 @@ url = "https://archive-api.open-meteo.com/v1/archive"
 params = {
     "latitude": 12.9719,  # For now, we are extracting the data for the city of Bangalore, India
     "longitude": 77.5937,
-    "start_date": "2023-03-01", 
+    "start_date": "2022-03-01", 
     "end_date": "2024-03-30", 
     "hourly": [
         "temperature_2m",
